@@ -1,0 +1,3 @@
+﻿<?php
+$variantNumber = 8; //Let's say my variant is 8... 
+echo ($variantNumber**2);
